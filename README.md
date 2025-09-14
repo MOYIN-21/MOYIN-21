@@ -9,7 +9,7 @@ With strong expertise in modern frontend technologies, I focus on delivering **c
 
 ## 🔹 About Me
 - 🔭 Currently working on **scalable web applications**  
-- 🌱 Expanding skills in **Next.js advanced features**  
+- 🌱 Expanding skills in **Shopify Liquid**  
 - 👯 Open to collaborating on **frontend and open-source projects**  
 - 💬 Ask me about **React, Next, Html, TypeScript, Tailwind CSS, CSS and responsive UI/UX**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/olawamide-moyinoluwa-aa1771278/) or check out my [Portfolio](https://my-portfolio-six-lac-92.vercel.app/)  
